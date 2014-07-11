@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD671114-086A-495F-83D5-A3917B07ACD3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HHAttributeLable</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>92643680-C495-41FA-8946-895046040ACA</key>
+		<string>ssh://github.com/heasenbug/HHAttributeLabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HHAttributeLable.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>92643680-C495-41FA-8946-895046040ACA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/heasenbug/HHAttributeLabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>92643680-C495-41FA-8946-895046040ACA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>92643680-C495-41FA-8946-895046040ACA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HHAttributeLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

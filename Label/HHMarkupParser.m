@@ -54,7 +54,7 @@ typedef enum {
     UInt16 pos = 0;//处理到字符串的下标位置
     for (NSTextCheckingResult *result in matchResult) {
         if (pos < result.range.location) {//如果第一个字符就是匹配到的内容就不需要处理匹配之前的内容了
-            NSString *preStr = [markup substringWithRange:NSMakeRange(pos, result.range.location)];
+            NSString *preStr = [markup substringWithRange:NSMakeRange(pos, result.range.location-pos)];
             [aString appendAttributedString:[self parseAttString:preStr type:HHMarkupTypeNormal]];
         }
         if (result.range.length > 2) {//除了空括号()以外

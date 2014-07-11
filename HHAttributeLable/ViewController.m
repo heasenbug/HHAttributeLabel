@@ -27,7 +27,7 @@
     label.specialColor = [UIColor greenColor];
     label.specialFont = [UIFont systemFontOfSize:32];
     
-    label.text = @"no (zuo) no die, why (you) try?";
+    label.text = @"no (zuo) no die, why(you)try?";
     [self.view addSubview:label];
 }
 
